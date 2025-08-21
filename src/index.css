@@ -1,0 +1,10 @@
+/* ✅ Google Fonts must be the very first import */
+@import url('https://fonts.googleapis.com/css2?family=Baloo+2:wght@400;600;700&family=Fredoka:wght@400;500;700&family=Chewy&display=swap');
+
+/* ✅ Tailwind import */
+@import "tailwindcss";
+
+/* Custom kids font */
+.kids-font {
+  font-family: 'Baloo 2', 'Fredoka', 'Chewy', cursive;
+}
